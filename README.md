@@ -94,13 +94,6 @@ Aplicação web com autenticação, gerenciamento de motoristas e pedidos, regra
 
 `Laravel` `React` `Inertia.js` `MySQL` `PHPUnit` `Tailwind CSS` `Docker`
 
-## 📈 Atividade no GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus557&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Matheus">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus557&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Matheus">
-</p>
-
 ## 💌 Entre em contato
 
 <p align="left">
