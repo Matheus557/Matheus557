@@ -1,107 +1,288 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de uma pessoa programando em um computador" width="400" align="right">
+# 👨🏻‍💻 Matheus Henrique da Silva
 
-# Olá, eu sou o Matheus 👋
+**`Desenvolvedor de Software | Engenharia de Dados`**
 
-<p align="left">
-  Sou <strong>Desenvolvedor Backend & Full Stack</strong>, com experiência em projetos web e Engenharia de Dados.<br>
-  Desenvolvo aplicações, APIs e soluções orientadas a dados, com foco em código organizado, regras de negócio, integração entre sistemas e ambientes reproduzíveis com Docker.<br><br>
-  Atualmente, estou aprofundando meus conhecimentos em <strong>backend, sistemas distribuídos e engenharia de dados</strong> e busco oportunidades nessas áreas.
-</p>
+Sou **Matheus Henrique da Silva**, formado em **Sistemas de Informação**, com experiência profissional em desenvolvimento de software, construção de **APIs REST**, processamento de dados, otimização de consultas SQL e desenvolvimento de aplicações web.
 
-<br clear="right">
+Minha trajetória começou no desenvolvimento Full Stack, trabalhando com tecnologias como **Java, Spring Boot, PHP, Laravel, Node.js, React e bancos relacionais**. Atualmente, estou direcionando minha carreira para **Engenharia de Dados**, aprofundando meus conhecimentos em **Python, SQL, PostgreSQL, Apache Spark, Databricks, pipelines de dados e Cloud**.
 
-## 👨‍💻 Sobre mim
-
-- 🔧 Desenvolvimento de APIs e aplicações completas, do banco de dados à interface
-- 🧱 Interesse em arquitetura de software, mensageria e processamento assíncrono
-- 📊 Experiência prática com ETL, tratamento de dados e arquitetura Medalhão
-- 🐳 Uso de Docker para criar ambientes consistentes de desenvolvimento
-- 🌱 Evoluindo constantemente em backend, sistemas distribuídos e dados
-
-## 🦄 Linguagens e tecnologias
-
-### Backend
+Gosto de construir projetos que unem **engenharia de software, backend e dados**, buscando sempre soluções organizadas, performáticas e escaláveis.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="44" height="44" alt="PHP" title="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="44" height="44" alt="Laravel" title="Laravel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java" title="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="44" height="44" alt="Spring Boot" title="Spring Boot">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="44" height="44" alt="NestJS" title="NestJS">
+    <a href="https://github.com/Matheus557?tab=followers">
+        <img 
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/Matheus557?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Matheus557?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas"
+            title="Total de estrelas no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/Matheus557?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-silva-898989111">
+        <img
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
-### Frontend
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" title="Next.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="44" height="44" alt="Vue.js" title="Vue.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS">
+### 🤖 Linguagens e Tecnologias
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Spring"
+    title="Spring Boot"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Apache Spark"
+    title="Apache Spark"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Node.js"
+    title="Node.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img
+    align="left"
+    alt="NestJS"
+    title="NestJS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+/>
+
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Next.js"
+    title="Next.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+
+<img
+    align="left"
+    alt="AWS"
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=Matheus557&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+
+<img
+        align="left"
+        alt="Tecnologias mais utilizadas"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus557&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
 </p>
 
-### Dados, bancos e infraestrutura
+<br clear="both"/>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas" title="Pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" height="44" alt="SQL Server" title="SQL Server">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="44" height="44" alt="RabbitMQ" title="RabbitMQ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git">
-</p>
+---
 
-## 🚀 Projetos em destaque
+### 🚀 Projetos em destaque
 
-### [Sistema de Ingestão e Processamento Assíncrono](https://github.com/Matheus557/POC)
+#### 📊 Radar PNCP
 
-Plataforma para ingestão de lotes ZIP e processamento distribuído de arquivos por filas e workers especializados.
+Projeto de **Engenharia e Análise de Dados** focado nas contratações públicas brasileiras disponibilizadas pelo **Portal Nacional de Contratações Públicas (PNCP)**.
 
-`Python` `FastAPI` `SQLAlchemy` `SQL Server` `RabbitMQ` `React` `Docker` `Retry` `DLQ`
+O projeto envolve coleta de dados via API, armazenamento RAW, tratamento e validação dos dados, modelagem em PostgreSQL, construção de KPIs, análise exploratória e desenvolvimento de dashboard.
 
-### [Pipeline ETL com Arquitetura Medalhão](https://github.com/Matheus557/pipeline-ETL)
+**Tecnologias:**
 
-Pipeline de ingestão, limpeza, padronização e geração de métricas de negócio nas camadas Bronze, Silver e Gold.
+`Python` `SQL` `PostgreSQL` `Pandas` `Next.js` `Docker`
 
-`Python` `Pandas` `PyArrow` `Parquet` `PostgreSQL` `Docker`
+---
 
-### [Sistema de Votação](https://github.com/Matheus557/voting)
+#### 📋 Kanban API
 
-Aplicação para gerenciamento de pautas, sessões temporizadas e votos únicos por associado.
+Aplicação para gerenciamento de tarefas utilizando uma arquitetura moderna de frontend e backend.
 
-`Java` `Spring Boot` `React` `PostgreSQL` `Swagger` `JUnit` `Mockito` `Docker`
+**Tecnologias:**
 
-### [Workly — Kanban e Gestão de Tickets](https://github.com/Matheus557/kanban)
+`Node.js` `NestJS` `Next.js`
 
-Sistema full stack com autenticação, perfis, tickets, comentários, responsáveis e processamento de eventos em fila.
+[🔗 Ver projeto](https://github.com/Matheus557/kanban)
 
-`NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `Bull` `JWT` `Docker`
+---
 
-### [SaaS de Pedidos e Webhooks](https://github.com/Matheus557/saas-pedidos)
+#### 🗳️ Sistema de Votação
 
-Solução para receber pedidos e webhooks, controlar eventos duplicados e reprocessar falhas.
+Sistema de votação desenvolvido utilizando backend Java integrado a uma aplicação frontend.
 
-`Laravel` `PHP` `React` `SQLite` `Idempotência` `Retry`
+**Tecnologias:**
 
-### [Gestão de Motoristas e Pedidos](https://github.com/Matheus557/Motoristas)
+`Java` `Spring Boot` `React` `PostgreSQL` `Docker`
 
-Aplicação web com autenticação, gerenciamento de motoristas e pedidos, regras de negócio e testes automatizados.
+[🔗 Ver projeto](https://github.com/Matheus557/voting)
 
-`Laravel` `React` `Inertia.js` `MySQL` `PHPUnit` `Tailwind CSS` `Docker`
+---
 
-## 💌 Entre em contato
+### 🎯 Atualmente estudando
 
-<p align="left">
-  <a href="https://github.com/Matheus557" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+- Engenharia de Dados
+- Apache Spark
+- Databricks
+- Arquitetura de Dados
+- Pipelines ETL/ELT
+- PostgreSQL e SQL avançado
+- AWS
+- Microsserviços
+- APIs e integrações com IA/LLMs
 
-### Vamos construir algo juntos?
+---
 
-Estou aberto a oportunidades em **Backend**, **Full Stack** e **Engenharia de Dados**.
+### 📫 Contato
+
+<a href="https://www.linkedin.com/in/matheus-silva-898989111">
+    <img
+        alt="LinkedIn"
+        title="LinkedIn"
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Matheus%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
+<a href="https://github.com/Matheus557">
+    <img
+        alt="GitHub"
+        title="GitHub"
+        src="https://custom-icon-badges.demolab.com/badge/GitHub-Matheus557-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
